@@ -1,0 +1,2 @@
+activate vae_lstm
+python train.py --config NAB_config.json

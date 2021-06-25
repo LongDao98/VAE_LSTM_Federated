@@ -1,0 +1,4 @@
+1 - prior value _ meanstd ; n_channel=16
+2 - prior value _ minmax ; n_channel=16
+3 - zero imputation _ meanstd ; n_channel=27
+4 - zero imputation _ minmax ; n_channel=27
